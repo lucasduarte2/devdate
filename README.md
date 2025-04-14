@@ -16,27 +16,27 @@ A simple and clean JavaScript date formatter library that provides utility funct
 
 ### Using npm (Node.js)
 
-To install the `date-formatter` library, you can use npm.
+To install the `devdate` library, you can use npm.
 
 ```bash
-npm install date-formatter
+npm install devdate
 ```
 
 ### Using yarn
 
-To install the `date-formatter` library, you can use yarn.
+To install the `devdate` library, you can use yarn.
 
 ```bash
-yarn add date-formatter
+yarn add devdate
 ```
 
 ## Importing the Library
 Once installed, you can import the library into your JavaScript project:
 // Using CommonJS import (Node.js)
-const formatDate = require('date-formatter');
+const formatDate = require('devdate');
 
 // Or using ES6 import syntax (if your environment supports ES6 modules)
-import formatDate from 'date-formatter';
+import formatDate from 'devdate';
 
 
 ## Usage

@@ -1,0 +1,27 @@
+{
+  "name": "devdate",
+  "version": "1.0.0",
+  "description": "A simple utility to format dates in various formats.",
+  "keywords": [
+    "date",
+    "time",
+    "formatter",
+    "utils"
+  ],
+  "homepage": "https://github.com/lucasduarte2/devdate#readme",
+  "bugs": {
+    "url": "https://github.com/lucasduarte2/devdate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasduarte2/devdate.git"
+  },
+  "license": "MIT",
+  "author": "Seu Nome",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {}
+}
